@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NRecord</string>
+    <string name="record">录制</string>
 </resources>
