@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#F000</color>
+    <!--页面背景颜色-->
+    <color name="background">#F7F7F7</color>
+    <!-- 标题背景颜色 -->
+    <color name="title_background">#FFD800</color>
+    <!--选项卡背景颜色-->
+    <color name="tabs_background">#FDFDFD</color>
+
+</resources>
